@@ -9,6 +9,8 @@ Follow me:
 * Follow us on LinkedIn: https://www.linkedin.com/company/techwithyeshwanth/
 * Personal LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
 * Book 1:1 Meeting with me: https://topmate.io/techwithyeshwanth
+* PPT used in the session: 
+
 
 Please provide your valuable feedback: https://forms.gle/Wzz4S6miXxMEuueUA
 
