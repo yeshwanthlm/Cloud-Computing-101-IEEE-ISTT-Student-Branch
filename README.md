@@ -7,7 +7,10 @@ Follow me:
 * Follow our blog here: https://dev.to/yeshwanthlm/
 * Follow us on Instagram: https://www.instagram.com/techwithyeshwanth/
 * Follow us on LinkedIn: https://www.linkedin.com/company/techwithyeshwanth/
+* Personal LinkedIn: https://www.linkedin.com/in/yeshwanth-l-m/
 * Book 1:1 Meeting with me: https://topmate.io/techwithyeshwanth
+
+Please provide your valuable feedback: https://forms.gle/Wzz4S6miXxMEuueUA
 
 Commands Used in the Demo:
 ```
